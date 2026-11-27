@@ -1,0 +1,153 @@
+{
+  "schema": 1,
+  "data_local": "2026-11-26",
+  "responsavel": "João Victor da Silva (JustJao1)",
+  "repositorio": "JustJao1/freight-connect",
+  "commit": "f44df2a464249993e2a9d7d04e38b152dfa5eaca",
+  "git_tree": "a092121ded5bd32fd45566c5473848a94b420dfa",
+  "escopo": "Inventário de todos os arquivos rastreados no commit; SHA-256 do JSON compacto UTF-8 de inventario_git, não do código completo. Hash de conteúdo da amostra calculado sobre bytes originais. Exclui dados privados, arquivos não rastreados, conteúdo externo e objetos LFS não materializados.",
+  "sha256_inventario_git": "36f9682d18bac9df7459e6ae85ca78765e70308d07cd26a99eda4d9ed8938516",
+  "hashes_conteudo": [
+    {
+      "path": "public/index.html",
+      "bytes": 60692,
+      "sha256": "f56f3f350476e59b3d9655730069b964565e8e80789cb55761db02bec1ec37b2"
+    }
+  ],
+  "auditoria_preliminar_licencas": "THIRD_PARTY_NOTICES.md identifica Leaflet BSD-2-Clause, OpenStreetMap ODbL, OSRM externo, dados de municípios MIT conforme public/municipios-LICENSE.txt, Google Fonts. Preservar atribuições e verificar condições dos servidores de mapas e rotas; requirements.txt indica biblioteca padrão Python.",
+  "inventario_git": [
+    [
+      ".github/workflows/verify.yml",
+      "100644",
+      "blob",
+      "67dc56fd92692061512c41ac0e4c1277dc7a9f0c",
+      399
+    ],
+    [
+      ".gitignore",
+      "100644",
+      "blob",
+      "227589229f99ca4edd6b7e136bda91c76967de9a",
+      56
+    ],
+    [
+      "OWNERSHIP.md",
+      "100644",
+      "blob",
+      "85ea17c6580f9068abdb29ab71aedc7ba91f36f2",
+      356
+    ],
+    [
+      "README.md",
+      "100644",
+      "blob",
+      "a16965d38e62246ed879a9db804fce40760c8b64",
+      1646
+    ],
+    [
+      "THIRD_PARTY_NOTICES.md",
+      "100644",
+      "blob",
+      "01eef35628fa7d24e6f92ba2dc2148048f163cc7",
+      348
+    ],
+    [
+      "api/workspace.py",
+      "100644",
+      "blob",
+      "1e31c81689dae9ff3d932535d8e2b1388a2238d6",
+      4552
+    ],
+    [
+      "lib/engine.py",
+      "100644",
+      "blob",
+      "0f5daba5b9551db7a08280b0f9758fbe638def48",
+      11434
+    ],
+    [
+      "lib/workspace_core.py",
+      "100644",
+      "blob",
+      "d5a179c68c1c4b3617625e9be6bd0fdd75f6083c",
+      3579
+    ],
+    [
+      "public/base.css",
+      "100644",
+      "blob",
+      "2c2cb0b49515cf747d955f045f442a0146eeea0f",
+      1805
+    ],
+    [
+      "public/common.js",
+      "100644",
+      "blob",
+      "dc515e42dada01757c2c07e6ac4ac59ed6603fab",
+      2978
+    ],
+    [
+      "public/index.html",
+      "100644",
+      "blob",
+      "26a8b718de54b185669892a7968e3ecfa441c8a9",
+      60692
+    ],
+    [
+      "public/municipios-LICENSE.txt",
+      "100644",
+      "blob",
+      "0917d8cae9e73ba5613268018914049cabca10f6",
+      1247
+    ],
+    [
+      "public/municipios-brasil.json",
+      "100644",
+      "blob",
+      "52ec8f50905157ed5fd7f77b01c4dbce7a05a4aa",
+      439553
+    ],
+    [
+      "public/polish.css",
+      "100644",
+      "blob",
+      "e83c7a1977eca0ad169d44a8d6395ca02ae00677",
+      2802
+    ],
+    [
+      "public/polish.js",
+      "100644",
+      "blob",
+      "ecc3fa51f706d9417f319caec1143c0b406e5f1b",
+      3449
+    ],
+    [
+      "requirements.txt",
+      "100644",
+      "blob",
+      "b7c72a67b2a8e676950be23fbaa8307c8bfdd94b",
+      25
+    ],
+    [
+      "run.py",
+      "100644",
+      "blob",
+      "ed91317cb9c3ca61a95151c885293336e3a05334",
+      1202
+    ],
+    [
+      "tests/test_workspace.py",
+      "100644",
+      "blob",
+      "6533c1f1bc7840616437cc9b1451635771dce1c8",
+      965
+    ],
+    [
+      "vercel.json",
+      "100644",
+      "blob",
+      "114d51d02ae11f8a976d9618c7f7bed1ca033bec",
+      149
+    ]
+  ]
+}
