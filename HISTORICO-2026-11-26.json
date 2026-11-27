@@ -1,0 +1,32 @@
+{
+  "repository": "JustJao1/freight-connect",
+  "snapshot": "f44df2a464249993e2a9d7d04e38b152dfa5eaca",
+  "scope": "Histórico alcançável a partir do commit preservado, tal como retornado pela API GitHub; datas e autorias são metadados Git, não certificação jurídica.",
+  "complete": true,
+  "entries": [
+    {
+      "commit": "f44df2a464249993e2a9d7d04e38b152dfa5eaca",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-27T00:28:02Z",
+      "committer_date": "2026-11-27T00:28:02Z",
+      "subject": "Use project-specific browser tab icon",
+      "signature_verified": false
+    },
+    {
+      "commit": "8136125f12d82f4c8b233e5d46d6f6daaede4c53",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T18:08:14Z",
+      "committer_date": "2026-11-26T18:08:14Z",
+      "subject": "Publish standalone logistics source and verification workflow",
+      "signature_verified": false
+    },
+    {
+      "commit": "da540880ab53786a4c84b9ea0c390e92c90b03a1",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T18:03:32Z",
+      "committer_date": "2026-11-26T18:03:32Z",
+      "subject": "Initialize project documentation",
+      "signature_verified": false
+    }
+  ]
+}
