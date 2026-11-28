@@ -31,3 +31,18 @@ Open http://127.0.0.1:8765/. The local server binds only to loopback. Internet a
 Run `python -m unittest discover -s tests -v` to check core operations. GitHub Actions also checks Python compilation and the tests. External service and browser validation are separate.
 
 [Ownership](OWNERSHIP.md) · [Third-party notices](THIRD_PARTY_NOTICES.md)
+
+
+## Engineering evidence / Evidências de engenharia
+
+[Architecture, decisions and bilingual walkthrough / Arquitetura, decisões e demonstração bilíngue](docs/engineering-quality.md).
+
+Measured snapshot / Registro de 28/11/2026:
+
+PT: 2 testes aprovados; 43% de cobertura (linhas e ramificações no escopo instrumentado); contêiner e health check aprovados.
+
+EN: 2 tests passed; 43% branch-inclusive coverage in the instrumented scope; container and health check passed.
+
+[Actual GitHub Actions run / Execução real de CI](https://github.com/JustJao1/freight-connect/actions/runs/46110650940).
+
+[Portfolio evidence / Evidências no portfólio](https://justjao1.vercel.app/#engineering).
